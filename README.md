@@ -1,5 +1,7 @@
 To use this app U need:
+
 Python 3.8
+
 SQLlite3
 
 
